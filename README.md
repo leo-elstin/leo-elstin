@@ -4,3 +4,5 @@
 #### 🙇 &nbsp; Dart, Java, Kotlin, TypeScript ( Beginner ), Swift ( Beginner ), JS ( Beginner )
 #### ✍️  &nbsp; I write blogs @ https://letsflutter.in and https://leyo.dev
 #### 📕 &nbsp; Let's get connected on LinkedIn @ https://www.linkedin.com/in/leoelstin/
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leo-elstin&show_icons=true&locale=en&count_private=true" alt="Leo Elstin" /></p>
